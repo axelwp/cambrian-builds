@@ -7,7 +7,7 @@ This repository only holds the downloads; the game is developed elsewhere.
 
 ## What you need
 
-- **Steam**, running and signed in. The game uses Steam for playing together and shows
+- **Steam (Required for Multiplayer)**, running and signed in. The game uses Steam for playing together and shows
   as **Spacewar** (Valve's free test app) while it runs. You don't need to own anything.
 - **Windows** (64-bit) or **macOS** (Apple Silicon or Intel).
 
