@@ -1,4 +1,4 @@
-# Creatures: builds
+# Cambrien: builds
 
 Playable builds of Creatures, a game about evolving a sea creature. Download the latest from
 [Releases](https://github.com/axelwp/evolution-game-builds/releases/latest).
